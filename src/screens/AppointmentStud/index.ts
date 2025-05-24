@@ -1,0 +1,1 @@
+export { AppointmentStud } from "./AppointmentStud";
